@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @saurabhshinde1014
 - 👀 I’m interested in Data Analytics 
 - 🌱 I’m currently learning Masters in Statistics 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 saurabhshinde1014/saurabhshinde1014 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
