@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Saurabh Shinde
+- 👋 Hii, I’m Saurabh Shinde
 - 👀 I’m interested in Data Analytics 
 - 🌱 I’m currently learning Masters in Statistics 
 
