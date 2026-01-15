@@ -1,6 +1,6 @@
 - 👋 Hii, I’m Saurabh Shinde
 - 👀 I’m interested in Data Analytics 
-- 🌱 I’m currently learning Masters in Statistics 
+- 🌱 I have completed Masters in Statistics 
 
 <!---
 saurabhshinde1014/saurabhshinde1014 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
